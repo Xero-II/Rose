@@ -1,12 +1,11 @@
-
 {
   "name": "Amethyst",
-  "description": "fr",
-  "version": ":fr:",
+  "description": "Low-key, Purple Aesthetic",
+  "version": "1.0",
   "authors": [
     {
-      "name": "Abby",
-      "id": "499287211381096458"
+      "name": "Your Name",
+      "id": "your-github-id"
     }
   ],
   "theme_color_map": {
@@ -43,11 +42,11 @@
       "#c7ccd1"
     ],
     "BACKGROUND_PRIMARY": [
-      "#0d0212",
+      "#1a1a1a",
       "#ffffff"
     ],
     "BACKGROUND_SECONDARY": [
-      "#0d0212",
+      "#36393d",
       "#f2f3f5"
     ],
     "BACKGROUND_SECONDARY_ALT": [
@@ -132,27 +131,12 @@
     ]
   },
   "colours": {
-    "PRIMARY_DARK": "#747474",
-    "PRIMARY_DARK_100": "#FFFFFF",
-    "PRIMARY_DARK_200": "#FFFFFF",
-    "PRIMARY_DARK_300": "#B6B6B6",
-    "PRIMARY_DARK_360": "#C8C8C8",
-    "PRIMARY_DARK_400": "#bebee3",
-    "PRIMARY_DARK_500": "#a674e3",
-    "PRIMARY_DARK_600": "#0d0212",
-    "PRIMARY_DARK_630": "#1a1b21",
-    "PRIMARY_DARK_700": "#101010",
-    "PRIMARY_DARK_800": "#0d0212",
-    "BRAND_NEW": "#a674e3",
-    "STATUS_RED": "#a674e3",
-    "STATUS_GREEN_600": "#a674e3"
+    "PRIMARY_DARK": "#565656",
+    "PRIMARY_DARK_600": "#1a1b21",
+    "PRIMARY_DARK_800": "#1a1a1a",
+    "BACKGROUND_PRIMARY": "#36393d"
   },
   "unsafe_colors": {
-    "CHAT_GREY": "#0d0212"
-  },
-  "background": {
-    "blur": 0.7,
-    "url": "https://wallpapercave.com/wp/wp11143188.jpg",
-    "alpha": 1.0
+    "CHAT_GREY": "#1a1a1a"
   }
 }
